@@ -1,0 +1,25 @@
+.todo-list-items{
+    font-family: 'Arial';
+    font-size:20px;
+    list-style:none;
+    margin-top:10px;
+    margin-right:40px;
+    margin-bottom:10px;
+    border-radius:3px;
+    display:flex;
+    flex-grow:5;
+    height:35px;
+    background-color:white;
+    padding:5px;
+    justify-content:space-between;
+}
+.todo-checkbox{
+    margin-top:10px;
+    margin-right:8px;
+}
+.todo-checked{
+   background-color:lightgray;
+   border-radius:3px;
+   color:white;
+   padding:5px;
+}
